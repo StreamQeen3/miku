@@ -4710,7 +4710,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Zero Two*, a bot developed by *Fantox*.
+I am *Miku Nakano*, a bot developed by *Fantox* and modded by *Dipanjan* for *BSF*.
 
 🔰 My prefix is:  ${prefix}
 
